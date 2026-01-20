@@ -15,9 +15,9 @@ A responsive Netflix landing page clone built using **HTML and CSS only**.
 - CSS3 (Flexbox)
 
 ## 📸 Preview
-<img src="./preview1.png" width="32%">
-<img src="./preview2.png" width="32%">
-<img src="./preview3.png" width="32%">
+<img src="./preview1.png.png" width="32%">
+<img src="./preview2.png.png" width="32%">
+<img src="./preview3.png.png" width="32%">
 
 
 
