@@ -22,7 +22,8 @@ A responsive Netflix landing page clone built using **HTML and CSS only**.
 
 
 ## 🚀 Live Demo
-https://yash28122005.github.io/Video-Streaming-App-Clone/index.html
+https://yash28122005.github.io/Video-Streaming-App-Clone/
+
 
 
 ## 📚 Learning Outcome
